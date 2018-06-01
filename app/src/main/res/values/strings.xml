@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="about_text">Basics tutorials for beginners in Android Development.</string>
+    <string name="author">Tanamo Inc.</string>
+    <string name="website">Website</string>
+    <string name="face">Facebook</string>
+    <string name="website_url">"https://tanamo-inc.github.io/Home/"</string>
+    <string name="face_url">https://www.facebook.com/Tanamo-Inc</string>
+    <string name="github">More Apps from us.</string>
+    <string name="github_link">https://play.google.com/store/search?q=tanamo%20inc</string>
+    <string name="settings">Settings</string>
+    <string name="tan_key">tanamo</string>
+    <string name="Blog">Blog</string>
+    <string name="connect">Connect to the Internet</string>
+
+
+</resources>
